@@ -1,28 +1,13 @@
 .title {
-    color: khaki;
+    color: blanchedalmond;
 }
-
- body {
-   background-color: lightslategrey;
+body {
+   background-color: saddlebrown
 }
-
- p {
-   color: yellow;
-     }
- p1 {
-    color: green;
+h4   {
+    color: blanchedalmond
     }
-  p2 {
-      color:orangered
-     }       
-p3  {
-      color:lightgray
-}
-p4   {
-    color:coral
+<p> {
+     color: blanchedalmond
     }
-
-   
     
-
-</style>
